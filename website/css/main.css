@@ -549,17 +549,14 @@ strong {
 }
 
 
-/*---------------------------------------
-  RSVP              
------------------------------------------*/
-.rsvp-section {
-  background-image: url('../images/closeup-shot-newlywed-couple-sitting-bench.jpg');
+.aboutus-section {
+  background-image: url('../images/d6dc6a4c-aboutus.jpeg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
-.rsvp-form-wrap {
+.aboutus-form-wrap {
   background: var(--white-color);
   border-radius: var(--border-radius-medium);
   padding: 50px;
